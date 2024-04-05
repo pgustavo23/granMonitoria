@@ -1,8 +1,13 @@
 # Gran Monitoria
 ### Atividade para alterar o tema de uma página Web entre Claro/Escuro
 
-### Acesse o diagrama da atividade através do link: 
+Repositório dedicado a resolução da atividade proposta para a candidatura à monitoria do módulo de Práticas de Programação, para graduação 
+em Análise e Desenvolvimento de Sistemas através da Gran Faculdade.
+
+#### Acesse o diagrama da atividade através do link: 
 [Diagrama da Atividade](https://www.tldraw.com/s/v2_c_GaHs0pFp7-6soDbKgOu4y?v=774%2C464%2C2461%2C1178&p=1J1r6YfJOoUsLYqnlf9j4)
+
+<hr>
 
 ### Atividade proposta:
 Um desenvolvedor está trabalhando em um projeto que envolve a criação de uma página web
@@ -35,3 +40,5 @@ sempre que a página for carregada.
 e) Implementar uma função em JavaScript para manipular diretamente as propriedades CSS do
 documento, alterando as cores de fundo, texto e outros estilos relevantes para alternar entre
 os modos claro e escuro.
+
+<hr>
