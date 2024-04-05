@@ -7,6 +7,13 @@ em Análise e Desenvolvimento de Sistemas através da Gran Faculdade.
 #### Acesse o diagrama da atividade através do link: 
 [Diagrama da Atividade](https://www.tldraw.com/s/v2_c_GaHs0pFp7-6soDbKgOu4y?v=774%2C464%2C2461%2C1178&p=1J1r6YfJOoUsLYqnlf9j4)
 
+### :computer:Para testes:
+
+>1. Deixe sua estrelas ⭐;
+>2. Faça um fork do repositório para seu github:
+>3. Clone o repositório;
+>4. Após clonar o projeto para seu PC, utilize o navegador para executar a aplicação;
+
 <hr>
 
 ### Atividade proposta:
