@@ -1,11 +1,18 @@
 # Gran Monitoria
 ### Atividade para alterar o tema de uma página Web entre Claro/Escuro
 
+### Acesse o diagrama da atividade através do link: 
+[Diagrama da Atividade](https://www.tldraw.com/s/v2_c_GaHs0pFp7-6soDbKgOu4y?v=774%2C464%2C2461%2C1178&p=1J1r6YfJOoUsLYqnlf9j4)
+
 ### Atividade proposta:
 Um desenvolvedor está trabalhando em um projeto que envolve a criação de uma página web
 com interações dinâmicas usando HTML, CSS e JavaScript. Ele deseja implementar uma
 funcionalidade que permita aos usuários alternar entre dois modos de exibição: claro e escuro.
 Considerando a seguinte estrutura HTML:
+
+<p align="center">
+<img width="600" src = "https://github.com/pgustavo23/granMonitoria/blob/feb915edc998fce7b6808b860025c8daf357782e/Imagens/Estrutura%20Proposta.jpeg">
+</p>
 
 Qual seria a abordagem correta para implementar a funcionalidade de alternância entre os
 modos claro e escuro usando JavaScript? Justifique a sua resposta.
